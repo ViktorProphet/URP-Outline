@@ -18,3 +18,6 @@ To fit the URP feature, I made a little bit change to the shader.
 
 # When you get confused
 Please download the whole project, I have a Sample in my project, maybe this will help.
+
+# Under development
+If you have any idea about optimization, or need to add more feature, or if there is any bug, it is thankful leave it as an issue.
