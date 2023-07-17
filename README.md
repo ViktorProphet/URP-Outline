@@ -1,8 +1,10 @@
 # URP-Outline
 
 This is a Outline URP RenderFeature for Unity versions 2022 and above.
+
 I made this by Ben Golus's fantastic article https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9.
-To fit the URP feature, I edited a little bit to the shader. 
+
+To fit the URP feature, I made a little bit change to the shader. 
 
 *This Outline works with Layer Mask. To set which object that the outline will be draw at, you need to set them to a specific Layer.*
 
