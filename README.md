@@ -6,7 +6,7 @@ I made this by Ben Golus's fantastic article https://bgolus.medium.com/the-quest
 
 To fit the URP feature, I made a little bit change to the shader. 
 
-*This Outline works with Layer Mask. To set which object that the outline will be draw at, you need to set them to a specific Layer.*
+*This Outline works with Layer Mask. To set which object that the outline will be draw at, you need to add them to a specific Layer.*
 
 # How to use
 
